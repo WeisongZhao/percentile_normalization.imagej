@@ -13,8 +13,8 @@
 	</parent>
 
 	<groupId>com.ICPC</groupId>        <!-- FIXME: Your organization groupId here --><!--fixed-->
-	<artifactId>percentile_image_normalization</artifactId> <!-- FIXME: Your project artifactId here   --><!--fixed-->
-	<version>0.3.0-SNAPSHOT</version>
+	<artifactId>Percentile_Norm</artifactId> <!-- FIXME: Your project artifactId here   --><!--fixed-->
+	<version>0.4.1-SNAPSHOT</version>
 
 	<name>percentile_image_normalization</name>                           <!--fixed--> <!-- FIXME: Your project name here          -->
 	<description>A Maven project implementing an percentile_image_normalization command.</description> <!-- FIXME: Your project description here   --><!--fixed-->
@@ -77,10 +77,10 @@
 	</ciManagement>
 
 	<properties>
-		<package-name>com.mycompany.imagej</package-name>                   <!-- FIXME: Your project package prefix here -->
-<!--		<main-class>com.mycompany.imagej.percentile_image_normalization</main-class>        &lt;!&ndash; FIXME: Your project main class here, or delete for none &ndash;&gt;-->
+		<package-name>com.HIT.weisongzhao</package-name>                   <!-- FIXME: Your project package prefix here -->
+		<main-class>com.HIT.weisongzhao.Percentile_Norm</main-class>        <!-- FIXME: Your project main class here, or delete for none -->
 		<license.licenseName>cc0</license.licenseName>                      <!-- FIXME: Your license-maven-plugin license code here -->
-		<license.copyrightOwners>My Company, Inc.</license.copyrightOwners> <!-- FIXME: Your organization legal entity name here -->
+		<license.copyrightOwners>HIT, Inc.</license.copyrightOwners> <!-- FIXME: Your organization legal entity name here -->
 	</properties>
 
 	<repositories>
